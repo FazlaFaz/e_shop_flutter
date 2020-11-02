@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152760550726",
+    "firebase_url": "https://emyshop-87339.firebaseio.com",
+    "project_id": "emyshop-87339",
+    "storage_bucket": "emyshop-87339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152760550726:android:e29d320ace15a933ab9147",
+        "android_client_info": {
+          "package_name": "com.fazla.emyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152760550726-444pulhbsahprq87slgiptve32iaqa31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QCk_eF_ZTPbeGInDAUbrlTBDOwL_6J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152760550726-444pulhbsahprq87slgiptve32iaqa31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
